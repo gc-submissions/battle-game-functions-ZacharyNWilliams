@@ -8,14 +8,6 @@ console.log(chooseOption)
 
 
 
-//var randNum = Math.random();
-//if (randNum < 0.5)
-  //randNum = 0
-//else
-  //randNum= 1
-//console.log(randNum)
-
-
 
 
 let attackPlayer = function(health){
